@@ -1,5 +1,5 @@
 def hello_world():
-    print("Hello, World!")
+    print("Hello, my name is Dwight")
 
 def print_something():
     print("Something.")
@@ -7,7 +7,7 @@ def print_something():
 def main():
     hello_world()
     print_something()
-
+    print(hello_world())
 if __name__ == "__main__":
     main()
 
