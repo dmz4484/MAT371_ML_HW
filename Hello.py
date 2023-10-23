@@ -2,12 +2,12 @@ def hello_world():
     print("Hello, my name is Dania")
 
 def print_something():
-    print("Something.")
+    print("This is Wang")
 
 def main():
     hello_world()
     print_something()
-    print(hello_world())
+    print(print_something())
 
 if __name__ == "__main__":
     main()
