@@ -1,8 +1,8 @@
 def hello_world():
-    print("Hello, my name is Dania")
+    print("Hello, my first name is Dania")
 
 def print_something():
-    print("Something.")
+    print("This is Dania Zein.")
 
 def main():
     hello_world()
